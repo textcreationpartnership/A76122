@@ -1,0 +1,151 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>New observations dedicated to the Kings most excellent Majestie, from all his loving subjects concerning peace. And humbly presented to the Honorable House of Commons for their incouragement to the perfection of that good worke of peace and union in the church and state. By J.B. Ca.Pe.</title>
+            <author>J. B., Ca. Pe.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76122</idno>
+            <idno type="STC">Wing B116</idno>
+            <idno type="STC">Thomason E108_11</idno>
+            <idno type="STC">ESTC R5642</idno>
+            <idno type="EEBO-CITATION">99872876</idno>
+            <idno type="PROQUEST">99872876</idno>
+            <idno type="VID">125322</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76122)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 125322)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 19:E108[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>New observations dedicated to the Kings most excellent Majestie, from all his loving subjects concerning peace. And humbly presented to the Honorable House of Commons for their incouragement to the perfection of that good worke of peace and union in the church and state. By J.B. Ca.Pe.</title>
+                  <author>J. B., Ca. Pe.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for George Tomlinson,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "27 July".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:125322:1" rendition="simple:additions"/>
+            <p>NEW OBSERVATIONS DEDICATED TO THE KINGS MOST EXCELLENT MAJESTIE, FROM ALL HIS Loving Subjects concerning Peace.</p>
+            <p>AND HVMBLY PRESENTED to the Honorable Houſe of Commons for their incouragement to the per<g ref="char:EOLhyphen"/>fection of that good worke of Peace and Union in the <hi>Church</hi> and <hi>State</hi>
+            </p>
+            <p>By <hi>J. B. Ca. Pe.</hi>
+            </p>
+            <p>Printed for George Tomlinſon. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:125322:2"/>
+            <pb n="3" facs="tcp:125322:2"/>
+            <head>NEW OBSERVATIONS Dedicated to the KINGS moſt Exellent <hi>MAJESTIE.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>BEſides my ſorrowes (which preſſed me very ſore, and remaineth ſtill upon me) the troubles and griefe that fell upon me for the lamentable breaches in the Church and State, and for your ſacred Majeſtie and hopefull off-ſpring filled up my ſorrowes: and in my thoughts I was grieved that thoſe fears and deſolations fell out in your daies; I confeſſe, charity ſuſpects not, and the beſt mindes thinks the leaſt hurt, and the freer a man is from vice in himſelf, the more chari<g ref="char:EOLhyphen"/>table he is of others; and this is that which hath proved (former<g ref="char:EOLhyphen"/>ly) prejudiciall to your Majeſtie. But had your Majeſtie been the firſt, or the beſt, that had been miſled, miſinformed, or ill reward<g ref="char:EOLhyphen"/>ed; it would be an hard thing to command patience, but grief is aſſwaged either by precedents, or examples. It is true of late dayes, your Majeſtie being miſinformed againſt ſome of your beſt Sub<g ref="char:EOLhyphen"/>jects, your Majeſtie thought to have dealt with them, as <hi>Joſeph</hi> thought to have dealt with <hi>Marie,</hi> and ſo put them away farre from you, but with <hi>Marie,</hi> they travelling as it were with childe, and that that which they travelled withall might not appear an il<g ref="char:EOLhyphen"/>legitimate, but remain innocent, the onely wiſe God, ſent as it were an Angell unto you, (I mean your late Petitioners at <hi>York</hi>) to let you ſee, that like <hi>Marie,</hi> they being contracted unto you in love, they have not as yet defiled their marriage-bed, but remaine
+<pb n="4" facs="tcp:125322:3"/>
+like <hi>Marie</hi> faithfull to their head and Soveraigne. And your Ma<g ref="char:EOLhyphen"/>jeſtie having been formerly ſeduced by falſe opinions from others againſt them, I hope you will now be reduced unto them (and by them) by true perſwaſions, and that you may be ſo, the onely wiſe God, that gave your Majeſtie your being, and ſo knew you better than your ſelf, hath dealt wit your Majeſtie as he did with <hi>Adam</hi> in parodice, and ſo hath provided you a meet helper, when with <hi>Adam</hi> you thought no need of it, nor deſired it, and your Majeſtie yeelding as <hi>Adam</hi> did (in ſparing a ſuperfluous rib, for to make him a meet helper) will become a great gainer, for your Majeſtie ſhall not onely loſe thoſe who may be well ſpared, but you will gain to your ſelf, and your poſterity, a meet helper, that will indea<g ref="char:EOLhyphen"/>vour by all lawfull means to eaſe you of many burthens that other<g ref="char:EOLhyphen"/>wiſe might have laine heavy upon you &amp; this helper is many mem<g ref="char:EOLhyphen"/>ber of that body whereof your Majeſtie is become the head, and conſidering their pains and labour in love, you ſhould do them inju<g ref="char:EOLhyphen"/>ſtice if you hould ſuffer any to accuſe them. I hope their is none (or will be none) near you (if near you yet dares not) to ingroſſe your favours any more to their own advantage wherby your good Sub<g ref="char:EOLhyphen"/>jects may be bereaved of thoſe benefits that ought to be common to all; as for your Commons, they go not about to ſteal your ſa<g ref="char:EOLhyphen"/>vours, but to purchaſe them legally; and are become unto you as <hi>Abrahams</hi> ſervant was to his Maſter, who would nor either eat or drink, untill he had done his Maſters buſines; and I dare ſay, if your Commons (as your late Monopoliſts and others) had, or did ſeek themſelves, or their own advantages (more then the good of King and Kingdom) they would have been wearied (after ſo much labour.) Before now but me thinks, I ſee your Commons following the counſell of God, <hi>Gen.</hi> 3.23, 24. and God having brought your Majeſtie and them together, they now ſay as <hi>Adam</hi> ſaid, <hi>Let us be but one,</hi> and that it may be ſo they are willing (not onely for a time to be ſeparated from their lawfull and domeſtick imployments but even) to forſake all and run many hazards, to cleave onely to your Majeſtie in a ſolemne contract, wherefore to make up the contract, me thinks, I ſee you to them as <hi>Rebecca</hi> was to the ſervant of <hi>Abraham,</hi> who asking water, made haſte and drew water for his Camels alſo: It may be to make up this march,
+<pb n="5" facs="tcp:125322:3"/>
+you muſt with <hi>Iſaac</hi> part with ſomething that was formerly neare unto you, and who will not be contented to ſpare a part to ſave the reſt: being done, it will prove to your Majeſtie as comfortable and welcome as <hi>Rebecca</hi> was into <hi>Iſaacs</hi> tent, and the Text ſaith, <hi>And Iſaac brought her into his Mother Sarahs tent, and took Re<g ref="char:EOLhyphen"/>becca and ſhe became his wife, and he loved her, and Iſaac was com<g ref="char:EOLhyphen"/>forted after his Mothers death.</hi> This happy match being made, it would not only refreſh your people, but make glad your heart in time of fears and dangers. It is true, there are many that have brought your Majeſtie into troubles and feared dangers, (and the more too blame they, for leaving your Majeſtie, having brought you into them.) It is true there are many with <hi>Orpha</hi> ſeeing your troubles have left you; but your Commons like <hi>Ruth</hi> are re<g ref="char:EOLhyphen"/>ſolved to ſtick cloſe unto you, and will endeavour to help you out of them, if with <hi>David</hi> you will be adviſed by them (who bleſſed God for the ſeaſonable counſell of a woman when he was upon a deſigne) Judge then of their loves and affections to your Majeſtie, by yours to them, and then tell me whether they do not truly love you; doubtles, yes, accounting their lives not dear unto them, ſo that they may but finiſh their work with joy, and ſo accompliſh their good ends concerning you, and I doubt not, but that I ſpeak it in the name of many, and in truth by your late yeelding and free expreſſion, you have ſtollen me from my ſelf, yea and am now wounded within me and like <hi>Moſes,</hi> who was wounded in him<g ref="char:EOLhyphen"/>ſelf and could hardly indure to look upon God when he deſcend<g ref="char:EOLhyphen"/>ed in mercy. It is true there is nothing engageth a ſoul to God, or a ſubject to a King, as the appearance of love; this made <hi>Moſes</hi> to ſay, <hi>H<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w dreadfull is thy place O God!</hi> and this is that which hath ſtollen me from my ſelf, ſo that now I am no more my own but yours; yea, by this returne of yours to your people you will winne them to obedience with kindneſſe; and by doing ſo, you will make good that which you were ſent for, whoſe care ought to be im<g ref="char:EOLhyphen"/>ployed for the good of your Subjects, knowing that their love is your greateſt ſafetie and their proſperity your greateſt honour and felicitie: and this is that which will make your bed eaſie when you ſhall poſſeſſe the juſt title to the Crowne with the love of your
+<pb n="6" facs="tcp:125322:4"/>
+people, and the continuance of it with the willing applauſe of the Subject, is the higheſt way to a bleſſing; and the hopes of this is that which hath brought me to renue and confirme the covenant that your Majeſtie made with me from your firſt entrance to the Crowne, and becauſe you could not ſwear by no greater, ſwore by the Eternall God that you would defend me, and at the firſt of one contract we made but one, your power and all that you had was mine to defend me, and to do me good but there have been ſome of late, that have ſet your Majeſtie againſt me (I ſpeak it in the name of many) and have perſwaded you to beat me, and to force to obedience, though of my ſelf willing to obey, being of a nature ſooner wonne than compelled, and this is that which hath ſore trou<g ref="char:EOLhyphen"/>bled me, yet this is not all, but when an oath with an &amp;c. was put upon me, it wounded me; for, by the oath that I had taken alrea<g ref="char:EOLhyphen"/>dy, I was bound faſt enough but the truth is when theſe things be<g ref="char:EOLhyphen"/>fell me, I was afraid that ſome evill minded men like <hi>Potiphers</hi> wife ſeeing mine innocency, and more faithfull to you my huſ<g ref="char:EOLhyphen"/>band than themſelves, had complained againſt me without cauſe: and this I could hardly bear; for, by this means our great Adver<g ref="char:EOLhyphen"/>ſaries, Devill and Pope, have laboured to ſow contentions and jea<g ref="char:EOLhyphen"/>louſies between us, and this is that which will be a means to undo us both, when your Majeſtie (which is become my head and huſ<g ref="char:EOLhyphen"/>band) ſpeaks kindly unto me, and is ruled by thoſe that love us both, my heart is inflamed with a love unto you, but when your Miniſters abuſe your Majeſties kindneſſe, and become tyrants to their fellow ſervants; yea, when they ſhall go about to juſtifie themſelves, and men like themſelves and lay all their villany upon your Majeſtie: this I can hardly bear; for, by this means, I am de<g ref="char:EOLhyphen"/>prived of my marriage-bed, and of my wonted ſociety and am trou<g ref="char:EOLhyphen"/>bled in my ſelf, when I ſee your Majeſtie (which is become my head and husband) ſtrange unto me, but I hope every former breach, will unite love the ſtronger, knowing that a little ſhaking of the tree will preferre the growth of it: wherefore being now reconci<g ref="char:EOLhyphen"/>led to your Commons, feaſt, live, love and die together, and be more firme in your neare union, than ever divided in your hearty unkind<g ref="char:EOLhyphen"/>neſſe ſo ſhall you meet in the end, and never part: But be like <hi>Ra<g ref="char:EOLhyphen"/>chell</hi>
+               <pb n="7" facs="tcp:125322:4"/>
+and <hi>Leah,</hi> which two built up the houſe of <hi>Iſrael.</hi> You are now in the way and it is ſaid, <hi>Gen.</hi> 24.27. <hi>That whilest the ſervant of Abraham was in the way, God bleſſed him;</hi> the ſame God bleſſe you; and for your comfort and incouragement know, by ſo much ſhal you grow to perfection by how much you draw neer to unity, I confeſſe had the <hi>Balaacks</hi> &amp; <hi>Balaams</hi> of our times bin ſo evil as they would have bin &amp; intended to have bin, the world had bin overrun with evill, but ſuch is the wiſdom of God, that oft-times he hides from evill men thoſe times and ſeaſons that might prove prejudi<g ref="char:EOLhyphen"/>ciall to his people: ſo when <hi>Saul</hi> ſought for <hi>David.</hi> It is true, the good God might have deſtroyed the <hi>Balaams</hi> and wicked <hi>Sauls</hi> of our times, but many times he will not, for God hath ſomething more for them to do; and it is not ſo much glory to God to take away wicked men, as to uſe their evill to his own holy purpoſes, and gaineth many times more glory by working good by evill in<g ref="char:EOLhyphen"/>ſtruments, than by deſtroying of them preſently in their wicked purpoſes: and this uſe I make of it, that it ſufficeth a good man, that he reſiſteth the evil actions of the wicked whilſt they love their per<g ref="char:EOLhyphen"/>ſons. I confeſſe, our <hi>Balaams,</hi> and our <hi>Sauls,</hi> had gone very farre, but in ſome things God permits in indignation, not for that he gives leave to the act, but that he gives a man over to the ſin in the act; and yet this ſufferance implyes not favour but judgement, and God is contented the devill ſhould winne himſelf credit (ſome<g ref="char:EOLhyphen"/>times) where he means to judge. I confeſſe, our <hi>Sauls</hi> and our <hi>Balaams,</hi> like <hi>Siſera</hi> truſted in their ſtrength, but like <hi>Siſera</hi> many of them run away, yet in ſpight of them all the Lord hath made a ſea<g ref="char:EOLhyphen"/>ſonable and hopefull proviſion for his people; and to that purpoſe the wiſe God (in ſpight of our <hi>Sauls</hi>) have brought your Majeſtie and Commons together. It is too true by the means of our <hi>Sauls,</hi> your Majeſtie became to your Commons as the Angel was to <hi>Gi<g ref="char:EOLhyphen"/>deon,</hi> and ſo made them afraid, but like the Angel that made <hi>Gide<g ref="char:EOLhyphen"/>on</hi> afraid, your Majeſtie hath returned to their comfort; and as God, as he uſeth where he loves, he imployes, &amp; like Chriſt himſelf, you are now willing to enjoy them by a willing contract, and not by a raviſhment; and by this means you appear now to your peo<g ref="char:EOLhyphen"/>ple like <hi>Moſes,</hi> who had more glory by his vale than by his face; and I do not doubt but when all things ſhall be made manifeſt, but that one faithfull <hi>David</hi> will be in more account with your Majeſtie, than either the <hi>Sauls</hi> or <hi>Balaams</hi> whatſoever. It is true,
+<pb n="8" facs="tcp:125322:5"/>
+by the means of our <hi>Sauls,</hi> the Crowne is become full of cares, and your Majeſtie having been almoſt even wearied by them, would faine now take ſome reſt; and that your Majeſtie may reſt, I will take unto me that large promiſe, <hi>Iſa.</hi> 45.11. (and with <hi>Jacob</hi> will give God no reſt untill he have bleſſed you.)</p>
+            <p>Thus ſaith the Lord the holy One of <hi>Iſrael,</hi> and his Maker, Aske me of things to come concerning my ſonnes, and concerning the work of my hands, command ye me, nay; that is not all that I will do for you but I will commend you to the Honourable Houſe of Commons, and tell them; Right Wiſe, Right Worthy, you ſee with <hi>Abraham</hi> his Majeſtie is willing to reſigne, to winne the af<g ref="char:EOLhyphen"/>fectons of his people by his juſtice in his government; the thing that I ſhall deſire of you (for his Majeſtie) is but this, that your Soveraigne which is become your head, being full of care and trou<g ref="char:EOLhyphen"/>bles that you would make his bed eaſie for him that (notwithſtand<g ref="char:EOLhyphen"/>ing your care in removing ſome that are about him) if there ſhould ſtill remain any about him that ſhould go about to trouble him, a<g ref="char:EOLhyphen"/>gain the thoughts of you when he wakes may make him lye down again, and take another nap. And the the doing of this for him, will bring him from <hi>Marah</hi> to <hi>Elim</hi> and you will become as ſweet and pleaſant to the Church, and the three Kingdoms, as the tree that God ſhewed to <hi>Moſes</hi> (which when he caſt into the waters the wa<g ref="char:EOLhyphen"/>ters were made ſweet, which formerly were bitter) and then ſhall the Church of God ſing the ſong of <hi>Moſes,</hi> Exod. 15. I know that thankfulneſſe and love, can do more with good men, than merit or neceſſitie; and me thinks, I ſee you like our Saviour, who thirſted after the ſalvation of mankinde: and I beleeve it was not ſo much out of drineſſe as out of love; Go you and do ſo likewiſe, knowing, that modeſt beginnings and hopefull proceedings makes happy end<g ref="char:EOLhyphen"/>ings. And for your comfort know that God whoſe battels you fight, will provide a due reward of your patience: and for my own part, I ſhall do with you as <hi>Jeptha</hi> did with his ſword, and whilſt he uſed it truſted to God: and with <hi>Job,</hi> will be willing to wait the appoin<g ref="char:EOLhyphen"/>ted time, for the accompliſhing of thoſe things that concernes both the good of Church and Common-wealth; and ſo I commend the ſaving of <hi>Salomon</hi> unto you <hi>Eccle.</hi> 9.10. <hi>Whatſoever thy hand find<g ref="char:EOLhyphen"/>eth to do, do it with thy might; for there is no work, nor device, nor knowledge, nor wiſdom in the grave, whither thou goeſt.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
